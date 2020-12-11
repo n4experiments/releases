@@ -15,7 +15,7 @@ export rom_vendor_name="aosp"
 export branch="eleven"
 export bacon="bacon"
 export buildtype=""
-export clean="installclean"
+export clean="false"
 export upload_recovery="false"
 
 export ccache="true"
