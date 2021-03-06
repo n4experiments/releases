@@ -3,10 +3,10 @@
 export GITHUB_USER="JarlPenguin"
 export GITHUB_EMAIL="jarlpenguin@gmail.com"
 
-export device="montana"
+export device="cedric"
 
 export ROM="LineageOS"
-export ROM_DIR="${WORKSPACE}/los18"
+export ROM_DIR="${WORKSPACE}/../LineageOS-18.1-montana/los18"
 export ROM_VERSION="18.1"
 export official="false"
 export local_manifest_url="https://github.com/JarlPenguin/manifests/raw/master/lineage/18.x/msm8937-common.xml"
