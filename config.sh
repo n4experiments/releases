@@ -3,7 +3,7 @@
 export GITHUB_USER="JarlPenguin"
 export GITHUB_EMAIL="jarlpenguin@gmail.com"
 
-export device="rhannah"
+export device="ahannah"
 
 export ROM="LineageOS"
 export ROM_DIR="${WORKSPACE}/../LineageOS-18.1-montana/los18"
