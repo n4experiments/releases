@@ -5,7 +5,7 @@ export GITHUB_EMAIL="jarlpenguin@outlook.com"
 
 export device="montana"
 
-export ROM_DIR="${WORKSPACE}/twrp"
+export ROM_DIR="${WORKSPACE}/../TWRP-cedric/twrp"
 export official="false"
 export local_manifest_url="https://github.com/JarlPenguin/manifests/raw/master/twrp/montana.xml"
 export manifest_url="https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni"
