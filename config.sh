@@ -1,15 +1,15 @@
 #!/bin/bash
 
-export GITHUB_USER="JarlPenguin"
-export GITHUB_EMAIL="jarlpenguin@gmail.com"
+export GITHUB_USER="kiam001"
+export GITHUB_EMAIL="blablatupfen@gmail.com"
 
 export device="cedric"
 
 export ROM="LineageOS"
-export ROM_DIR="${WORKSPACE}/../LineageOS-17.1-montana/los17"
+export ROM_DIR="${WORKSPACE}/rom"
 export ROM_VERSION="17.1"
 export official="false"
-export local_manifest_url="https://github.com/JarlPenguin/manifests/raw/master/lineage/17.x/msm8937-common.xml"
+export local_manifest_url="https://github.com/n4experiments/manifests/raw/master/lineage.xml"
 export manifest_url="https://github.com/LineageOS/android"
 export rom_vendor_name="lineage"
 export branch="lineage-17.1"
@@ -23,6 +23,6 @@ export ccache_size="100"
 
 export jenkins="true"
 
-export release_repo="JarlPenguin/releases"
+export release_repo="n4experiments/releases"
 
 export timezone="UTC"
