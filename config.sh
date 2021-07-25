@@ -3,10 +3,10 @@
 export GITHUB_USER="kiam001"
 export GITHUB_EMAIL="blablatupfen@gmail.com"
 
-export device="cedric"
+#export device="cedric"
 
 export ROM="LineageOS"
-export ROM_DIR="${WORKSPACE}/rom"
+export ROM_DIR="${WORKSPACE}/../lineage-17.1/rom"
 export ROM_VERSION="17.1"
 export official="false"
 export local_manifest_url="https://github.com/n4experiments/manifests/raw/master/lineage.xml"
