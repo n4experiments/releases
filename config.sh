@@ -24,6 +24,6 @@ export ccache_size="100"
 
 export jenkins="true"
 
-export release_repo="JarlPenguin/releases"
+export release_repo="n4experiments/releases"
 
 export timezone="UTC"
